@@ -23,7 +23,7 @@ The best model used to determine the need for a Biopsy is a Logistic Regression 
 
 The confusion matrix below illustrates this:
 
-![alt text]https://github.com/jefferyrosario/dsc-learn-lessons-lab-onl01-dtsc-pt-012120/blob/master/Untitled%20Folder/confusion_matrix.png
+![alt text](https://github.com/jefferyrosario/dsc-learn-lessons-lab-onl01-dtsc-pt-012120/blob/master/Untitled%20Folder/confusion_matrix.png)
 
 ## Conclusion
 
