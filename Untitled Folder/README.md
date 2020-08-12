@@ -9,7 +9,6 @@ Hospital Y has learned that machine learning is the new buzzword that may help t
 
 We will try to examine several models, focusing on the recall of the positive Biopsy cases. 
 
-1. W
 
 ## Contents
 
